@@ -1,0 +1,11 @@
+--2022-12-24 13:39:37--  https://yandex.ru/images/search?pos=1
+Resolving yandex.ru (yandex.ru)... 5.255.255.88, 77.88.55.55, 77.88.55.50, ...
+Connecting to yandex.ru (yandex.ru)|5.255.255.88|:443... connected.
+HTTP request sent, awaiting response... 200 Ok
+Length: unspecified [text/html]
+Saving to: ‘search?pos=1’
+
+search?pos=1           [<=>           ]       0  --.-KB/s               search?pos=1           [ <=>          ]  40.43K   149KB/s               search?pos=1           [  <=>         ] 123.62K   270KB/s    in 0.5s    
+
+2022-12-24 13:39:38 (270 KB/s) - ‘search?pos=1’ saved [126587]
+
